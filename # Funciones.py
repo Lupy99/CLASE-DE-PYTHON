@@ -1,0 +1,6 @@
+# Funciones.
+
+
+
+
+# Codigo principal (main)
